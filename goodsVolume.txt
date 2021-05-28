@@ -1,0 +1,6 @@
+品名：电视，length:102 cm, width:89 cm, height:56 cm.体积: 508368.0cm3
+品名：轿车，length:4502 cm, width:178 cm, height:156 cm.体积: 1.25011536E8cm3
+品名：桌子，length:125 cm, width:78 cm, height:68 cm.体积: 663000.0cm3
+品名：电视，length:102 cm, width:89 cm, height:56 cm.体积: 508368.0cm3
+品名：轿车，length:4502 cm, width:178 cm, height:156 cm.体积: 1.25011536E8cm3
+品名：桌子，length:125 cm, width:78 cm, height:68 cm.体积: 663000.0cm3
